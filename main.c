@@ -25,8 +25,8 @@ int main() {
     printf("the price is $%f\n",price);
     printf("your gpa is %f \n", gpa);
 
-//   double pi = 3.141592653589793;
-//   printf("pi is approx %.15lf\n", pi);
+    double pi = 3.141592653589793;
+    printf("pi is approx %.15lf\n", pi);
 
 
     // char grade = 'B';
