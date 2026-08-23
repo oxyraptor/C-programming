@@ -29,10 +29,10 @@ int main() {
     printf("pi is approx %.15lf\n", pi);
 
 
-    // char grade = 'B';
-    // char sym = '!';
-    // printf("your grade is %c\n",grade);
-    // printf("I love you %c%c%c\n",sym,sym,sym);
+    char grade = 'B';
+    char sym = '!';
+    printf("your grade is %c\n",grade);
+    printf("I love you %c%c%c\n",sym,sym,sym);
     return 0;
 
 }
