@@ -1,16 +1,12 @@
 #include <stdio.h>
 
-// int main(){
-//     //this is my first c program :)
-//     /*
-//     this is also a comment
-//     */
-//     printf("hello world\n");
-//     printf("i like her !!");
-//     return 0;
-// }
-
-int main() {
+int main(){
+//this is my first c program :)
+    /*
+     this is also a comment
+     */
+    printf("hello world\n");
+    printf("i like her !!"); 
     int age = 25;
     int year = 2026;
     int quant = 1;
